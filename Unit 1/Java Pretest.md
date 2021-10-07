@@ -98,7 +98,9 @@ From 72 to 80 (inclusive)	C
 #### Karel the Dog is instructed to move forward two spaces. Then, if Karel is standing on a ball, Karel will turn left and move forward two spaces. Otherwise, Karel will move forward two spaces. Given the starting point below, where will Karel end up?
 <br>
 <strong>Answer:</strong>
-![Image of the answer](https://codehs.com/uploads/622efbb0ea7fd12d8364e47123fd7e1d)
+<br>
+![Image of the answer]
+(https://codehs.com/uploads/622efbb0ea7fd12d8364e47123fd7e1d)
 <br>
 
 #### If x represents the area of the number line colored blue, which inequality accurately reflects the value of x?
