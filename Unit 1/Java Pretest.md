@@ -6,11 +6,12 @@ Evaluate the mathematical expression: 18 ÷ 3 + 3 × 3 – 8: <br>
 What value will be held in mysteryNumber when this code finishes running?<br>
 <br>
 ```java
-int mysteryNumber = 0;
-String[] mysteryArray = {"Finn", "Jake", "Bubblegum"};
-for(int i = 0; i < mysteryArray.length; i++)
-{
-    mysteryNumber += mysteryArray[i].length();
-}
+    int mysteryNumber = 0;
+    String[] mysteryArray = {"Finn", "Jake", "Bubblegum"};
+    for(int i = 0; i < mysteryArray.length; i++)
+    {
+        mysteryNumber += mysteryArray[i].length();
+    }
 ```
+
 <br>
