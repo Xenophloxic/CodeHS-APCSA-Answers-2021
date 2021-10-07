@@ -2,7 +2,7 @@
 <head> Please don't copy the answers, use them to help you learn, not doing the learning for you. </head><br>
 <br><br>
 Evaluate the mathematical expression: 18 ÷ 3 + 3 × 3 – 8: <br>
-**Answer: 7**<br>
+<strong>Answer: 7</strong><br>
 What value will be held in mysteryNumber when this code finishes running?<br>
 <br>
 ```java
