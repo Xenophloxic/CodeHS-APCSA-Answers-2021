@@ -1,0 +1,1 @@
+Evaluate the mathematical expression: 18 ÷ 3 + 3 × 3 – 8: 
