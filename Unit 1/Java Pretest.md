@@ -99,7 +99,9 @@ From 72 to 80 (inclusive)	C
 <br>
 <strong>Answer:</strong>
 <br>
+
 ![Image of the answer](https://codehs.com/uploads/622efbb0ea7fd12d8364e47123fd7e1d)
+
 <br>
 
 ##### If x represents the area of the number line colored blue, which inequality accurately reflects the value of x?
