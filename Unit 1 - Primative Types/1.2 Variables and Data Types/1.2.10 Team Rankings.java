@@ -52,7 +52,7 @@ public class TeamRanks
 		System.out.print("3. ");
 		System.out.println(team3);
 		System.out.print("4. ");
-		System.out.println(team4);
+		System.out.println(team4);  
 		System.out.print("5. ");
 		System.out.println(team5);
 		System.out.print("6. ");
