@@ -1,0 +1,3 @@
+1. The second one because it ran faster
+2. It uses less computing by using an if statement and a check instead of using many different lines to check for the same thing
+3. So it uses less computing power and therefore is faster and saves money
