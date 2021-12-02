@@ -9,4 +9,4 @@ My answers to CodeHS's APCSA Java Course. This is intended to help, not to give 
 ### I hope this repo helps you along in your class and maybe even into your career!
 
 ## Thank you for being here!
-If you want, follow me or star this repo to show your support! You can contact me at `Xenophloxic#9179` on Discord if you want to reach out to me.
+If you want, follow me or star this repo to show your support! You can contact me at `_Xeno#9179` on Discord if you want to reach out to me.
